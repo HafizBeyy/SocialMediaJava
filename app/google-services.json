@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008259430413",
+    "project_id": "samplesocialmedia-756a0",
+    "storage_bucket": "samplesocialmedia-756a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008259430413:android:a1968f4e28a800fa24fd44",
+        "android_client_info": {
+          "package_name": "com.ananas.socialmediaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChbdxRBmZYoOpelmEdQFCu_cdcoJuc-dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

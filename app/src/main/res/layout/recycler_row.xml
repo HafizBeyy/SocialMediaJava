@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="uremailaddress@yar.rak"
+    android:id="@+id/recyclerViewUserEmailTextView"
+    android:layout_margin="5dp"
+    android:textSize="20sp"
+    android:gravity="center"/>
+
+    <ImageView
+        android:id="@+id/recyclerViewContentImageView"
+        android:layout_width="250dp"
+        android:layout_height="180dp"
+        android:layout_gravity="center"
+        android:src="@mipmap/ic_launcher" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/recyclerViewCommentTextView"
+        android:layout_margin="5dp"
+        android:textSize="25sp"
+        android:text="sdfgggggggggg"
+        android:gravity="center"/>
+</LinearLayout>
